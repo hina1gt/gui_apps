@@ -6,15 +6,18 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>332</width>
-    <height>400</height>
+    <width>321</width>
+    <height>368</height>
    </rect>
   </property>
   <property name="windowTitle">
    <string>MainWindow</string>
   </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: rgb(176, 211, 255);</string>
+  </property>
   <widget class="QWidget" name="centralwidget">
-   <widget class="QPushButton" name="pushButton">
+   <widget class="QPushButton" name="btn9">
     <property name="geometry">
      <rect>
       <x>20</x>
@@ -31,8 +34,10 @@
     </property>
     <property name="font">
      <font>
-      <pointsize>18</pointsize>
+      <family>Tw Cen MT Condensed</family>
+      <pointsize>20</pointsize>
       <weight>50</weight>
+      <italic>false</italic>
       <bold>false</bold>
      </font>
     </property>
@@ -41,12 +46,17 @@
     </property>
     <property name="whatsThis">
      <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;9&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">font: 20pt &quot;Tw Cen MT Condensed&quot;;
+border-color: rgb(0, 0, 127);
+background-color: rgb(226, 235, 255);</string>
     </property>
     <property name="text">
      <string>9</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_2">
+   <widget class="QPushButton" name="btn8">
     <property name="geometry">
      <rect>
       <x>100</x>
@@ -63,8 +73,10 @@
     </property>
     <property name="font">
      <font>
-      <pointsize>18</pointsize>
+      <family>Tw Cen MT Condensed</family>
+      <pointsize>20</pointsize>
       <weight>50</weight>
+      <italic>false</italic>
       <bold>false</bold>
      </font>
     </property>
@@ -73,12 +85,17 @@
     </property>
     <property name="whatsThis">
      <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;9&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">font: 20pt &quot;Tw Cen MT Condensed&quot;;
+border-color: rgb(0, 0, 127);
+background-color: rgb(226, 235, 255);</string>
     </property>
     <property name="text">
      <string>8</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_3">
+   <widget class="QPushButton" name="btn7">
     <property name="geometry">
      <rect>
       <x>180</x>
@@ -95,8 +112,10 @@
     </property>
     <property name="font">
      <font>
-      <pointsize>18</pointsize>
+      <family>Tw Cen MT Condensed</family>
+      <pointsize>20</pointsize>
       <weight>50</weight>
+      <italic>false</italic>
       <bold>false</bold>
      </font>
     </property>
@@ -105,12 +124,17 @@
     </property>
     <property name="whatsThis">
      <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;9&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">font: 20pt &quot;Tw Cen MT Condensed&quot;;
+border-color: rgb(0, 0, 127);
+background-color: rgb(226, 235, 255);</string>
     </property>
     <property name="text">
      <string>7</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_4">
+   <widget class="QPushButton" name="btn4">
     <property name="geometry">
      <rect>
       <x>180</x>
@@ -127,8 +151,10 @@
     </property>
     <property name="font">
      <font>
-      <pointsize>18</pointsize>
+      <family>Tw Cen MT Condensed</family>
+      <pointsize>20</pointsize>
       <weight>50</weight>
+      <italic>false</italic>
       <bold>false</bold>
      </font>
     </property>
@@ -137,12 +163,17 @@
     </property>
     <property name="whatsThis">
      <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;9&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">font: 20pt &quot;Tw Cen MT Condensed&quot;;
+border-color: rgb(0, 0, 127);
+background-color: rgb(226, 235, 255);</string>
     </property>
     <property name="text">
      <string>4</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_5">
+   <widget class="QPushButton" name="btn5">
     <property name="geometry">
      <rect>
       <x>100</x>
@@ -159,8 +190,10 @@
     </property>
     <property name="font">
      <font>
-      <pointsize>18</pointsize>
+      <family>Tw Cen MT Condensed</family>
+      <pointsize>20</pointsize>
       <weight>50</weight>
+      <italic>false</italic>
       <bold>false</bold>
      </font>
     </property>
@@ -170,11 +203,16 @@
     <property name="whatsThis">
      <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;9&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
     </property>
+    <property name="styleSheet">
+     <string notr="true">font: 20pt &quot;Tw Cen MT Condensed&quot;;
+border-color: rgb(0, 0, 127);
+background-color: rgb(226, 235, 255);</string>
+    </property>
     <property name="text">
      <string>5</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_6">
+   <widget class="QPushButton" name="btn6">
     <property name="geometry">
      <rect>
       <x>20</x>
@@ -191,8 +229,10 @@
     </property>
     <property name="font">
      <font>
-      <pointsize>18</pointsize>
+      <family>Tw Cen MT Condensed</family>
+      <pointsize>20</pointsize>
       <weight>50</weight>
+      <italic>false</italic>
       <bold>false</bold>
      </font>
     </property>
@@ -202,11 +242,16 @@
     <property name="whatsThis">
      <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;9&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
     </property>
+    <property name="styleSheet">
+     <string notr="true">font: 20pt &quot;Tw Cen MT Condensed&quot;;
+border-color: rgb(0, 0, 127);
+background-color: rgb(226, 235, 255);</string>
+    </property>
     <property name="text">
      <string>6</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_7">
+   <widget class="QPushButton" name="btn1">
     <property name="geometry">
      <rect>
       <x>180</x>
@@ -223,8 +268,10 @@
     </property>
     <property name="font">
      <font>
-      <pointsize>18</pointsize>
+      <family>Tw Cen MT Condensed</family>
+      <pointsize>20</pointsize>
       <weight>50</weight>
+      <italic>false</italic>
       <bold>false</bold>
      </font>
     </property>
@@ -234,11 +281,16 @@
     <property name="whatsThis">
      <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;9&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
     </property>
+    <property name="styleSheet">
+     <string notr="true">font: 20pt &quot;Tw Cen MT Condensed&quot;;
+border-color: rgb(0, 0, 127);
+background-color: rgb(226, 235, 255);</string>
+    </property>
     <property name="text">
      <string>1</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_8">
+   <widget class="QPushButton" name="btn2">
     <property name="geometry">
      <rect>
       <x>100</x>
@@ -255,8 +307,10 @@
     </property>
     <property name="font">
      <font>
-      <pointsize>18</pointsize>
+      <family>Tw Cen MT Condensed</family>
+      <pointsize>20</pointsize>
       <weight>50</weight>
+      <italic>false</italic>
       <bold>false</bold>
      </font>
     </property>
@@ -266,11 +320,16 @@
     <property name="whatsThis">
      <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;9&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
     </property>
+    <property name="styleSheet">
+     <string notr="true">font: 20pt &quot;Tw Cen MT Condensed&quot;;
+border-color: rgb(0, 0, 127);
+background-color: rgb(226, 235, 255);</string>
+    </property>
     <property name="text">
      <string>2</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_9">
+   <widget class="QPushButton" name="btn3">
     <property name="geometry">
      <rect>
       <x>20</x>
@@ -287,8 +346,10 @@
     </property>
     <property name="font">
      <font>
-      <pointsize>18</pointsize>
+      <family>Tw Cen MT Condensed</family>
+      <pointsize>20</pointsize>
       <weight>50</weight>
+      <italic>false</italic>
       <bold>false</bold>
      </font>
     </property>
@@ -298,11 +359,16 @@
     <property name="whatsThis">
      <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;9&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
     </property>
+    <property name="styleSheet">
+     <string notr="true">font: 20pt &quot;Tw Cen MT Condensed&quot;;
+border-color: rgb(0, 0, 127);
+background-color: rgb(226, 235, 255);</string>
+    </property>
     <property name="text">
      <string>3</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_10">
+   <widget class="QPushButton" name="btn0">
     <property name="geometry">
      <rect>
       <x>20</x>
@@ -319,8 +385,10 @@
     </property>
     <property name="font">
      <font>
-      <pointsize>18</pointsize>
+      <family>Tw Cen MT Condensed</family>
+      <pointsize>20</pointsize>
       <weight>50</weight>
+      <italic>false</italic>
       <bold>false</bold>
      </font>
     </property>
@@ -330,11 +398,16 @@
     <property name="whatsThis">
      <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;9&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
     </property>
+    <property name="styleSheet">
+     <string notr="true">font: 20pt &quot;Tw Cen MT Condensed&quot;;
+border-color: rgb(0, 0, 127);
+background-color: rgb(226, 235, 255);</string>
+    </property>
     <property name="text">
      <string>0</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_11">
+   <widget class="QPushButton" name="btnAdd">
     <property name="geometry">
      <rect>
       <x>250</x>
@@ -345,16 +418,23 @@
     </property>
     <property name="font">
      <font>
-      <pointsize>18</pointsize>
-      <weight>75</weight>
-      <bold>true</bold>
+      <family>Tw Cen MT</family>
+      <pointsize>22</pointsize>
+      <weight>9</weight>
+      <italic>false</italic>
+      <bold>false</bold>
      </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">font: 75 22pt &quot;Tw Cen MT&quot;;
+border-color: rgb(0, 0, 127);
+background-color: rgb(226, 235, 255);</string>
     </property>
     <property name="text">
      <string>+</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_12">
+   <widget class="QPushButton" name="btnC">
     <property name="geometry">
      <rect>
       <x>90</x>
@@ -365,16 +445,23 @@
     </property>
     <property name="font">
      <font>
-      <pointsize>16</pointsize>
-      <weight>75</weight>
-      <bold>true</bold>
+      <family>Tw Cen MT</family>
+      <pointsize>22</pointsize>
+      <weight>9</weight>
+      <italic>false</italic>
+      <bold>false</bold>
      </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">font: 75 22pt &quot;Tw Cen MT&quot;;
+border-color: rgb(0, 0, 127);
+background-color:rgb(227, 58, 61)</string>
     </property>
     <property name="text">
      <string>C</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_13">
+   <widget class="QPushButton" name="btnEqual">
     <property name="geometry">
      <rect>
       <x>200</x>
@@ -385,16 +472,23 @@
     </property>
     <property name="font">
      <font>
-      <pointsize>20</pointsize>
-      <weight>75</weight>
-      <bold>true</bold>
+      <family>Tw Cen MT</family>
+      <pointsize>22</pointsize>
+      <weight>9</weight>
+      <italic>false</italic>
+      <bold>false</bold>
      </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">font: 75 22pt &quot;Tw Cen MT&quot;;
+border-color: rgb(0, 0, 127);
+background-color: rgb(226, 235, 255);</string>
     </property>
     <property name="text">
      <string>=</string>
     </property>
    </widget>
-   <widget class="QLabel" name="label">
+   <widget class="QLabel" name="calclabel">
     <property name="geometry">
      <rect>
       <x>24</x>
@@ -405,7 +499,11 @@
     </property>
     <property name="font">
      <font>
-      <pointsize>16</pointsize>
+      <family>Tw Cen MT</family>
+      <pointsize>20</pointsize>
+      <weight>50</weight>
+      <italic>false</italic>
+      <bold>false</bold>
      </font>
     </property>
     <property name="cursor">
@@ -414,23 +512,23 @@
     <property name="layoutDirection">
      <enum>Qt::LeftToRight</enum>
     </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(226, 235, 255);
+font: 20pt &quot;Tw Cen MT&quot;;</string>
+    </property>
     <property name="frameShape">
      <enum>QFrame::Box</enum>
     </property>
     <property name="text">
-     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;right&quot;&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+     <string/>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+    </property>
+    <property name="wordWrap">
+     <bool>true</bool>
     </property>
    </widget>
-  </widget>
-  <widget class="QMenuBar" name="menubar">
-   <property name="geometry">
-    <rect>
-     <x>0</x>
-     <y>0</y>
-     <width>332</width>
-     <height>26</height>
-    </rect>
-   </property>
   </widget>
   <widget class="QStatusBar" name="statusbar"/>
  </widget>
